@@ -1,28 +1,28 @@
 # Site settings
-title: BY Blog
-SEOTitle: 柏荧的博客 | BY Blog
+title: DLL Blog
+SEOTitle: 鄧鄧的博客 | DLL Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
-description: "Every failure is leading towards success."
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone"
-url: "http://qiubaiying.github.io"          # your host, for absolute URL
+email: denglianglu@qq.com
+description: "Blog for life \ work \ code \ mood"
+keyword: "BY, BY Blog, 鄧鄧的博客, denglianglu, 邓靓璐, web, web前端，实习"
+url: "http://liangludeng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "我还年轻，不想接受平庸，我觉得未来会坦荡开阔，任我平原跑马"
+sidebar-avatar: / img/avatar-m      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+zhihu_username:     LiangluDeng
+github_username:    LiangluDeng
+facebook_username:  
+jianshu_username:   f62d6fae5c8e
 #twitter_username:   qiubaiying
 
 
@@ -74,11 +74,11 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+# ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+# ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+# ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -99,9 +99,6 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
         title: "简书·BY",
         href: "http://www.jianshu.com/u/e71990ada2fd"
     },{
